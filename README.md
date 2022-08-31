@@ -6,5 +6,6 @@ https://exchangeratesapi.io
 
 #MVC #Alamofire #CoreData 
 
-![pickture](https://user-images.githubusercontent.com/84287682/187789064-3a999688-0691-450b-b5d9-dcb72ebbbdba.png)
+
+![pickture2](https://user-images.githubusercontent.com/84287682/187789331-bf3da4df-17ff-40f1-8612-d494b86c4c57.png)
 
